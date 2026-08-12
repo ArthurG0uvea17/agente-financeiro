@@ -4,7 +4,7 @@ Agente conversacional que decide autonomamente quando executar ferramentas exter
 
 ## O que é function calling
 
-Diferente de um assistente que apenas gera texto com base em conhecimento genérico, este agente recebe uma lista de ferramentas disponíveis e, a cada pergunta, decide sozinho: (1) se alguma ferramenta é necessária, (2) qual delas, e (3) com quais parâmetros chamá-la — extraídos diretamente da linguagem natural do usuário. O resultado real da execução é devolvido ao modelo, que então formula a resposta final.
+Diferente de um assistente que apenas gera texto com base em conhecimento genérico, este agente recebe uma lista de ferramentas disponíveis e, a cada pergunta, decide sozinho: (1) se alguma ferramenta é necessária, (2) qual delas, e (3) com quais parâmetros chamá-la, extraídos diretamente da linguagem natural do usuário. O resultado real da execução é devolvido ao modelo, que então formula a resposta final.
 
 ## Exemplo de uso
 
